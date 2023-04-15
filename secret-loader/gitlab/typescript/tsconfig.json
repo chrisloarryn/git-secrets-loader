@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"target": "esnext",
+		"module": "ESNext",
+		"moduleResolution": "node",
+	},
+	"ts-node": {
+		"esm": true,
+		"compilerOptions": {
+			"module": "ESNext",
+			"target": "esnext"
+		}
+	}
+}
